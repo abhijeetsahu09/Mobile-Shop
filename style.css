@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Tamil&display=swap');
+
+
+#body {
+    background: url('../airpods.jpg');
+    background: lightpink;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+ #container {
+     background-image: none;
+     width: 424px;
+     padding: 15px;
+     font-family: 'Tiro Tamil', serif;
+ }
+ h1 {
+     font-size: 70px;
+ }
+ .headphones {
+     float: left;
+     background: white;
+     border-width: 2px yellow;
+ }
+ .charger {
+     float: left;
+     border-width:2px yellow;
+     position: relative;
+     right: 30px;
+ }
+ .frame {
+     float: left;
+     border-width: 2px yellow;
+ }
+
+ p {
+     font-family: 'Times New Roman', Times, serif;
+ }
